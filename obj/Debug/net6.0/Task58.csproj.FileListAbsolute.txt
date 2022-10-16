@@ -1,0 +1,15 @@
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+C:\Users\pvb07\Desktop\GB\HW11\Task58\bin\Debug\net6.0\Task58.exe
+C:\Users\pvb07\Desktop\GB\HW11\Task58\bin\Debug\net6.0\Task58.deps.json
+C:\Users\pvb07\Desktop\GB\HW11\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+C:\Users\pvb07\Desktop\GB\HW11\Task58\bin\Debug\net6.0\Task58.dll
+C:\Users\pvb07\Desktop\GB\HW11\Task58\bin\Debug\net6.0\Task58.pdb
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\Task58.dll
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\refint\Task58.dll
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\Task58.pdb
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+C:\Users\pvb07\Desktop\GB\HW11\Task58\obj\Debug\net6.0\ref\Task58.dll
